@@ -13,8 +13,11 @@ Guide_Me which includes :
   4. Helping the oldage people with some health tips
   
   do this steps to include files of guide_me project.
+    
     - mkdir guideme
+    
     - cd guideme
+    
     - git clone https://github.com/sripadaraj/Guide_Me.git
    
    
